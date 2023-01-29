@@ -1,8 +1,12 @@
+import os
+requmen = ["pip install requests ", "pip install bs4", "pip install colorama"]
+for i in requmen:
+    os.system(i)
 import requests as req
 from bs4 import BeautifulSoup as btu
 import random
 from colorama import Fore, Style
-import json
+
 print(Fore.WHITE+Style.BRIGHT +""" 
  ___                                   _               
   |  ._   _ _|_  _.  _  ._ _. ._ _    / \  _ ._  o _|_ 
