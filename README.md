@@ -1,2 +1,2 @@
 # Osint-instagram
-#osint Instagram 
+Instagram Information Gathering Tool
